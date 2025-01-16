@@ -12,7 +12,7 @@
 
 ### 2. Notebook
 
-- **`retail_sales_analysis.ipynb`**: Contains the complete workflow, including:
+- **`portfolio 3.ipynb`**: Contains the complete workflow, including:
   - Data preprocessing
   - Feature engineering
   - Model training (Random Forest Regressor)
