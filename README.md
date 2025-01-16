@@ -65,8 +65,8 @@ All visualizations were created in Tableau using the exported CSV files. Dashboa
 ## Key Findings
 
 1. **Prediction Performance**:
-   - RMSE: `XXX`
-   - R² Score: `XXX`
+   - RMSE: `19431550820.64`
+   - R² Score: `0.93`
 2. **Sales Trends**:
    - Seasonal and temporal trends were observed.
 
